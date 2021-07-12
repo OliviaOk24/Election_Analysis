@@ -10,10 +10,11 @@ Election Audit Results
     - Jefferson - 38,855 votes and 10.5%
     - Denver - 306,055 votes and 82.8%
     - Arapahoe - 24,801 votes and 6.7%
-    - ![image](https://user-images.githubusercontent.com/85662949/125230557-ffdc2c80-e2a6-11eb-9e93-b96205048c32.png)
-
+![image](https://user-images.githubusercontent.com/85662949/125230557-ffdc2c80-e2a6-11eb-9e93-b96205048c32.png)
 
 - Out of all the three counties, Denver had the largest voter turnout.  
+- It is shown in the below image, the code written to print the county with the largest voter turnout 
+![image](https://user-images.githubusercontent.com/85662949/125230798-87c23680-e2a7-11eb-8bd4-87ff05a8f414.png)
 
 - There were 3 candidates that ran in the election. Charles Casper Stockham, Diana DeGette and Raymon Anthony Doane. The vote count for the 3 candidates is shown below: 
     - Charles Casper Stockham - 85,213 votes and 23%
@@ -25,4 +26,4 @@ Election Audit Results
 ELECTION AUDIT SUMMARY 
 This script is capable of being used for different elections as it is formatted in such a way that it iterated through the candidates and counties and votes and was not ceated specifically for the 3 candidates and counties. 
 - It can be modifed to work for any election by making sure that the election data that the script reads has the same name everytime or the code can be modified to look for a csv file with the data needed.
-- It can also be modified 
+- It can also be modified to look at other pieces of election data. 
