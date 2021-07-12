@@ -1,5 +1,6 @@
 # Election_Analysis
 Overview of Election Audit 
+
 This analysis was aimed at getting the voter count for the different candidates and counties to help the clients, Seth and Tom. The code creatde using python in VS Code was aimed at determining the voter turnout for the different counties, the percentage of votes from each county out of the total count and the county with the highest voter turnout. 
 
 Election Audit Results 
@@ -9,6 +10,8 @@ Election Audit Results
     - Jefferson - 38,855 votes and 10.5%
     - Denver - 306,055 votes and 82.8%
     - Arapahoe - 24,801 votes and 6.7%
+    - ![image](https://user-images.githubusercontent.com/85662949/125230557-ffdc2c80-e2a6-11eb-9e93-b96205048c32.png)
+
 
 - Out of all the three counties, Denver had the largest voter turnout.  
 
